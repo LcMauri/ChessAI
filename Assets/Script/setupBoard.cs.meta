@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 306deca8473dfc54bb0b5a772f76a74a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bPawn: {fileID: 1795254426916766637, guid: 1ff232a3a17138a49bccb26843b94aee, type: 3}
+  - bKing: {instanceID: 0}
+  - bQueen: {instanceID: 0}
+  - bBishop: {instanceID: 0}
+  - bKnight: {instanceID: 0}
+  - bRook: {instanceID: 0}
+  - wPawn: {instanceID: 0}
+  - wKing: {instanceID: 0}
+  - wQueen: {instanceID: 0}
+  - wBishop: {instanceID: 0}
+  - wKnight: {instanceID: 0}
+  - wRook: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
